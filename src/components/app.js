@@ -5,7 +5,11 @@ import Button from "./Button";
 
 const App = () => (
   <MuiThemeProvider>
-    <Button />
+    <div>
+        <h1>Nymphetamine</h1>
+        <Button />
+    </div>
+
   </MuiThemeProvider>
 );
 
