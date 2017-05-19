@@ -25,5 +25,7 @@ Material UI Starter
 	> Redux with React
 			Credit:	StephenGrider
 	> Jump directly in build app with Material UI, Redux with React		
+	> Test components with GridList
+			Credit: http://www.material-ui.com/
 
 ```
