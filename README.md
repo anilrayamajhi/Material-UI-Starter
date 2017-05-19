@@ -4,7 +4,8 @@ Material UI Starter
 
 ```
 	>		fork
-	> 	git clone https://github.com/anilrayamajhi/Material-UI-Starter.git
+	> 	git clone
+				https://github.com/anilrayamajhi/Material-UI-Starter.git
 	>		cd Material-UI-Starter
 	>		npm install
 	>		npm start
@@ -24,7 +25,7 @@ Material UI Starter
 	>	Bootstrap loaded
 	> Redux with React
 			Credit:	StephenGrider
-	> Jump directly in build app with Material UI, Redux with React		
+	> Jump directly in building app with Material UI, Redux with React		
 	> Test components with GridList
 			Credit: http://www.material-ui.com/
 
