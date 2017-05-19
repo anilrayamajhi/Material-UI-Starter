@@ -4,7 +4,7 @@ Material UI Starter
 
 ```
 	>		fork
-	> 	git clone
+	>		git clone
 				https://github.com/anilrayamajhi/Material-UI-Starter.git
 	>		cd Material-UI-Starter
 	>		npm install
