@@ -4,7 +4,7 @@ import RaisedButton from 'material-ui/RaisedButton';
 const Button = () => (
   <div>
     <br />
-  <RaisedButton label="Ganey" />
+  <RaisedButton label="GI" />
   </div>
 );
 
