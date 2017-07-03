@@ -8,7 +8,7 @@
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --port 6060 --inline --hot --open",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "GI",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
